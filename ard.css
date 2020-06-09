@@ -1,0 +1,196 @@
+ 
+        /* top thin */
+            
+            body{
+                background-image: url(http://www.ard.de/pool/img/ard/background/base_xs.jpg)
+            }
+            
+            #top{
+                background-color: #001a4b;
+                width: 100%;
+                font-family: 'Nunito', sans-serif;
+                color: white;
+                list-style: none;
+                float: left;
+                text-align: center;
+                margin-top: 0px;
+                border-top: 0px;
+            }
+            
+            li{
+                /*float: left;*/
+                display: inline-block; 
+                padding: 5px;
+                font-size: 18px;
+            }
+            
+            #top a:link{
+                color: white;
+                text-decoration: none;
+                font-size: 16px;
+                padding: 10px 5px 1px 5px;
+            }
+            
+            #top a:hover{
+                color: #001a4b;
+                background-color: white;
+                text-decoration: none;
+            }
+            
+            link-top:hover{
+                text-decoration: underline;
+                
+            }
+            
+            .festebreite{
+                width: 1050;
+                margin:auto;
+            }
+            
+            .newsbox{
+                font-family: 'Nunito', sans-serif;
+                margin-right: 150px;
+                height: 350px;
+                width: 1050px;
+                background-color: white;
+                float:right;
+            }
+            
+        /* top bold */
+            
+            #bold-top{
+                background-color: #001a4b;
+                font-family: 'Nunito', sans-serif;
+                color: white;
+                list-style: none;
+                font-weight: bold;
+                float: right;
+                text-align: center;
+                margin-top: 0px;
+            }
+            
+        /* top logo */
+            
+            #toplogo{
+                padding: 5px;
+                text-align: center;
+                
+            }
+            
+        /* Logo */
+            
+            #logo{
+                padding-top: 10px;
+                padding-left: 150px;
+            }
+            
+        /* Suche */
+                    
+            #suchfeld input{
+                top: -42px;
+                float: right;
+                margin-right: 150px;
+                margin-top: 30px;
+                background-image:   url(http://www.ard.de/pool/img/base/icon/lupe_gross.png);
+                background-size: 20px;
+                background-repeat: no-repeat;
+                background-position: right;
+            }
+            
+            #logoTop{
+                float: left;
+                
+            }
+            
+            .topbox{
+                margin-bottom: auto;
+                float: none;
+            }
+            
+        /* Nachrichten */
+            
+            
+            .headline{
+                color: #3D5176;
+                font-size: 25px;
+                font-family: 'Nunito', sans-serif;
+                margin: 5px;
+            }
+            
+            .headline a:link{
+                text-decoration: none;
+                text-decoration-color: #3D5176;
+                
+            }
+            
+            .schlagzeile{
+                
+                margin: 5px;
+                position: relative;                 
+            }
+            
+            .schlagzeile a:link{
+                text-decoration: none;
+            }
+            
+            hr{
+                height: 0.1px;
+                background: black;
+                margin: 2px;
+            }
+            
+            .link {
+                text-decoration: none;
+            }
+            
+            #schlagzeilebild{
+                margin: 5px;
+                float: left;
+               
+            }
+        
+        /* kleiner Nachrichtenbox */
+            
+            .linkebox{
+                height: 185px;
+                width: 525px;
+                background-color: white;
+                font-family: 'Nunito', sans-serif;
+                margin-left: 135px;
+                margin-top: 10px;
+                float: left;
+               
+                
+            }
+            
+            .rechtebox{
+                height: 185px;
+                width: 525px;
+                background-color: white;
+                font-family: 'Nunito', sans-serif;
+                margin-left: 5px;
+                margin-right: 103px;
+                margin-top: 10px;
+                float: left;
+               
+                
+            }
+            
+            #li{
+                padding-left: 5px
+                    
+            }
+        
+            
+        /* Sport */
+            
+            .sport{
+                font-family: 'Nunito', sans-serif;
+                margin-left: 140px;
+                height: 350px;
+                width: 1050px;
+                background-color: white;
+                float: left;
+                margin-top: 10px;
+            }
+            
